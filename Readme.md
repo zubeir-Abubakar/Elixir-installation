@@ -1,4 +1,4 @@
-# ![https://elixir-lang.org/](/elixir-lang-ar21.svg) Installation
+# ![https://elixir-lang.org/](/elixir-lang-ar21.svg)
 
 ## Installation
 
