@@ -1,6 +1,4 @@
-# Cashia Backend
-
-![https://elixir-lang.org/](/elixir-lang-ar21.svg)
+# ![https://elixir-lang.org/](/elixir-lang-ar21.svg) Installation
 
 ## Installation
 
